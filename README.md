@@ -4,10 +4,20 @@ The College Complaint Management System is a web-based platform designed to stre
 https://github.com/Nischitha-0908/College-Complaint-Management-System/tree/my-new-branch
 
 results:
+1.Screen shot showing home page
+![Screenshot 2024-03-28 172743](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/e600e271-e62c-4794-aeaa-60c3e2e0ac77)
 
-![Screenshot 2024-03-28 172948](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/5e614c74-3d0d-4ac2-ab88-007278eeef7c)
-![Screenshot 2024-03-28 172901](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/7777cb25-361a-473c-8a65-c35ea98621a5)
-![Screenshot 2024-03-28 172835](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/9d7e1790-0662-4b34-af9a-b7a94cf3cbb9)
-![Screenshot 2024-03-28 172810](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/f5830165-94bc-471f-9421-9e6f37b6fbd3)
-![Screenshot 2024-03-28 172759](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/815485f5-b8ae-49f1-9e6b-f2b63cd238f9)
-![Screenshot 2024-03-28 172743](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/44d55037-0c9d-482b-8bf9-c21178a39d6f)
+2.Screen shot showing user login
+![Screenshot 2024-03-28 172759](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/d27c55ce-cb9f-4468-b963-93985070b3cc)
+
+3.Screen shot showing user 
+![Screenshot 2024-03-28 172948](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/86345497-f277-42d3-a54c-dc2def815a9d)
+
+4.Screen shot showing user registration
+![Screenshot 2024-03-28 172810](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/e3b35ba6-23a4-44c4-b14c-3c6e3499bc58)
+
+5.Screen shot showing admin login page
+![Screenshot 2024-03-28 172835](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/90c1a227-425e-453f-8491-1871b3fead6d)
+
+6.Screen shot showing admin
+![Screenshot 2024-03-28 172901](https://github.com/Nischitha-0908/College-Complaint-Management-System/assets/115889412/1788180e-4476-42b9-b444-8fc48809f5db)
